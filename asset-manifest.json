@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ng-gym/static/css/main.02f001c3.css",
+    "main.js": "/ng-gym/static/js/main.5fa394c2.js",
+    "static/js/787.6575523f.chunk.js": "/ng-gym/static/js/787.6575523f.chunk.js",
+    "index.html": "/ng-gym/index.html",
+    "main.02f001c3.css.map": "/ng-gym/static/css/main.02f001c3.css.map",
+    "main.5fa394c2.js.map": "/ng-gym/static/js/main.5fa394c2.js.map",
+    "787.6575523f.chunk.js.map": "/ng-gym/static/js/787.6575523f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f001c3.css",
+    "static/js/main.5fa394c2.js"
+  ]
+}
