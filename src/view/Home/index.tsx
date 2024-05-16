@@ -1,5 +1,5 @@
 import React from "react";
-import { BackgroundPng, LogoSvg, ExerciseLogoSvg, TickSvg } from "../../assets";
+import { LogoSvg, ExerciseLogoSvg, TickSvg } from "../../assets";
 
 const Home = () => {
   return (
@@ -17,7 +17,7 @@ const Home = () => {
             </span>
           </div>
           <div id="menu" className="h-[32px]">
-            <ul className="[& li]:cursor-pointer relative font-[Inter] flex font-[400] text-white text-[18px] space-x-8">
+            <ul className="[&>li]:cursor-pointer relative font-[Inter] flex font-[400] text-white text-[18px] space-x-8">
               <li>
                 <span>Home</span>
               </li>
@@ -33,9 +33,9 @@ const Home = () => {
               <li>
                 <span>Contact</span>
               </li>
-              <li>
+              <div>
                 <span>|</span>
-              </li>
+              </div>
               <li>
                 <span className="text-[#FF7A00] text-[20px] font-[600]">
                   Sign In
