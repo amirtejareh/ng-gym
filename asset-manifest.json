@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/ng-gym/static/css/main.dfcf29fc.css",
-    "main.js": "/ng-gym/static/js/main.9cd2383f.js",
+    "main.css": "/ng-gym/static/css/main.eedeb1a2.css",
+    "main.js": "/ng-gym/static/js/main.37604138.js",
     "static/js/787.235fd8ec.chunk.js": "/ng-gym/static/js/787.235fd8ec.chunk.js",
     "static/media/top.png": "/ng-gym/static/media/top.0887caee3316b4380630.png",
     "static/media/fitness-logo.svg": "/ng-gym/static/media/fitness-logo.2aa80428745d5b96c7b11fe2e5a1a117.svg",
     "static/media/exercise-logo.svg": "/ng-gym/static/media/exercise-logo.c0b882bc1220b5bbd0f9b016ba12abb5.svg",
+    "static/media/Filter.svg": "/ng-gym/static/media/Filter.36008660c9b0921512838689c3d89d68.svg",
     "index.html": "/ng-gym/index.html",
     "static/media/tick.svg": "/ng-gym/static/media/tick.74e7c6d52c1697885b9ad0165da0d168.svg",
-    "main.dfcf29fc.css.map": "/ng-gym/static/css/main.dfcf29fc.css.map",
-    "main.9cd2383f.js.map": "/ng-gym/static/js/main.9cd2383f.js.map",
+    "main.eedeb1a2.css.map": "/ng-gym/static/css/main.eedeb1a2.css.map",
+    "main.37604138.js.map": "/ng-gym/static/js/main.37604138.js.map",
     "787.235fd8ec.chunk.js.map": "/ng-gym/static/js/787.235fd8ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfcf29fc.css",
-    "static/js/main.9cd2383f.js"
+    "static/css/main.eedeb1a2.css",
+    "static/js/main.37604138.js"
   ]
 }
